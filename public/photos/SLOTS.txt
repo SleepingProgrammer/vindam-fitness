@@ -1,0 +1,13 @@
+Photo slots for Vindam Fitness Gym.
+
+Replace these files with real photos from the gym's Facebook page.
+Keep the file names. Do not rename them.
+
+1.jpg  Hero photo. Wide crop, the large image beside the name.
+2.jpg  Strip photo.
+3.jpg  Strip photo.
+4.jpg  Strip photo.
+5.jpg  Strip photo.
+6.jpg  Strip photo.
+
+The files here are dark stand-in textures until those photos are dropped in.
