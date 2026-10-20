@@ -281,8 +281,7 @@ a:focus-visible {
   font-size: 0.95rem;
 }
 
-.score strong,
-.why-rate .num {
+.score strong {
   color: var(--volt);
 }
 
@@ -518,17 +517,11 @@ a:focus-visible {
 
 .why-item p { margin: 6px 0 0; }
 
-.why-rate {
-  background: var(--volt);
-  color: var(--ink);
-  border-top-color: var(--volt);
+.why-item a {
+  color: var(--paper);
 }
 
-.why-rate .num,
-.why-rate h3,
-.why-rate .kicker { color: var(--ink); }
-
-.why-rate a { color: inherit; }
+.why-item a:hover { color: var(--volt); }
 
 .moment {
   margin: 0;
