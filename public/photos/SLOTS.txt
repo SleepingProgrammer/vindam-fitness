@@ -10,4 +10,4 @@ Keep the file names. Do not rename them.
 5.jpg  Strip photo.
 6.jpg  Strip photo.
 
-The files here are dark stand-in textures until those photos are dropped in.
+These files are real gym photos. Replace one by saving over the same filename.

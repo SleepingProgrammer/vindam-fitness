@@ -16,7 +16,7 @@ Live site: https://vindam-fitness.programmingwhilesleeping.workers.dev/
 
 ## Photos
 
-Drop real Facebook photos onto these files and keep the names:
+The live slots are real gym photos. To swap one, save over the same filename:
 
 - `public/photos/1.jpg` — hero
 - `public/photos/2.jpg` through `public/photos/6.jpg` — strip under the hero
