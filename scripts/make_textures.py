@@ -1,4 +1,4 @@
-"""public/photos/1.jpg through 6.jpg are real Vindam Fitness Gym photos.
+"""public/photos are real Vindam Fitness Gym photos.
 
 Do not regenerate them. Replace a slot by saving over the same filename.
 """
@@ -6,6 +6,6 @@ Do not regenerate them. Replace a slot by saving over the same filename.
 import sys
 
 sys.exit(
-    "public/photos/1.jpg through 6.jpg are real gym photos. "
+    "public/photos are real gym photos. "
     "This script no longer generates stand-in textures."
 )

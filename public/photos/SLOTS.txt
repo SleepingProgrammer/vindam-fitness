@@ -1,13 +1,10 @@
-Photo slots for Vindam Fitness Gym.
+Real photos from Vindam Fitness Gym. Swap one by saving over the same filename.
 
-Replace these files with real photos from the gym's Facebook page.
-Keep the file names. Do not rename them.
+hero.jpg            Full-bleed hero. Wide floor under the steel roof, blue benches and machines.
+floor-benches.jpg   The floor. Rows of blue benches.
+floor-bright.jpg    The floor. Bright room with benches, racks, and dumbbells.
+floor-hall.jpg      The floor. Hall with racks and machines.
+floor-rack.jpg      The floor. Rack in the narrow red-and-black room.
+floor-corridor.jpg  The floor. Corridor lined with machines.
 
-1.jpg  Hero photo. Wide crop, the large image beside the name.
-2.jpg  Strip photo.
-3.jpg  Strip photo.
-4.jpg  Strip photo.
-5.jpg  Strip photo.
-6.jpg  Strip photo.
-
-These files are real gym photos. Replace one by saving over the same filename.
+Photo 6 is not used.

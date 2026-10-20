@@ -12,14 +12,19 @@ Live site: https://vindam-fitness.programmingwhilesleeping.workers.dev/
 - Facebook: https://www.facebook.com/purokhappyvalleyibabangdupayredv
 - Rating shown: 4.7 on Google
 - Directions: https://www.google.com/maps/search/Vindam%20Fitness%20Gym%20Lucena%20City
-- Membership rates and gym hours are not listed. The page says to message the gym.
+- Membership rates and gym hours are not listed. Every "Message us" link opens Messenger: https://m.me/purokhappyvalleyibabangdupayredv
+- Call and email stay on the page as secondary contact.
 
 ## Photos
 
 The live slots are real gym photos. To swap one, save over the same filename:
 
-- `public/photos/1.jpg` — hero
-- `public/photos/2.jpg` through `public/photos/6.jpg` — strip under the hero
+- `public/photos/hero.jpg` — full-bleed hero
+- `public/photos/floor-benches.jpg`
+- `public/photos/floor-bright.jpg`
+- `public/photos/floor-hall.jpg`
+- `public/photos/floor-rack.jpg`
+- `public/photos/floor-corridor.jpg`
 
 See `public/photos/SLOTS.txt`.
 
